@@ -5,6 +5,7 @@ GitHub Flow is a lightweight, branch-based workflow that supports teams and proj
 
 - [ ] first
 - [ ] second
+- [ ] third
 
 ![GitHub Flow diagram](https://cloud.githubusercontent.com/assets/4215/16997425/a1e816a2-4e72-11e6-9de7-0961ada64ea6.png)
 
